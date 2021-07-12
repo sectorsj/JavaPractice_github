@@ -1,4 +1,4 @@
-package dmdev.level2.serialization;
+package dmdev.level2.pack23serializationdeserialization;
 
 import java.io.Serializable;
 
@@ -7,7 +7,7 @@ public class PersonForSerialization implements Serializable {
 	private static final long serialVersionUID = 1L;
 	private int age;
 	
-	// пометка transient говорит о том, что мы не хотим чтобы это поле сериализовалось
+	// пометка transient говорит о том, что мы не хотим чтобы это поле сериализовывалось.
 	private transient String firstName;
 	
 	public PersonForSerialization(int age, String firstName) {

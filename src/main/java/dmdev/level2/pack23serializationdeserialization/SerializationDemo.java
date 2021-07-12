@@ -1,4 +1,4 @@
-package dmdev.level2.serialization;
+package dmdev.level2.pack23serializationdeserialization;
 
 /**
  * почитать книгу Д.Блох "Java эффективное программирование"
