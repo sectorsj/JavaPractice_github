@@ -1,4 +1,4 @@
-package suleimanov.design_patterns.strategy;
+package suleimanov.design_patterns.behavioral.strategy;
 
 public class DeveloperRunner {
 	public static void main(String[] args) {
