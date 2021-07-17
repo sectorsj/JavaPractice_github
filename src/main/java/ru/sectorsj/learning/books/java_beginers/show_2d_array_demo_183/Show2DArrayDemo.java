@@ -13,6 +13,7 @@ public class Show2DArrayDemo {
 	public static void main(String[] args) {
 		int[][] alpha = {{1, 2, 3}, {4, 5, 6}};
 		int[][] bravo = {{1, 2, 3}, {4, 5}, {6, 7, 8}};
+		
 		System.out.println("Массив alpha:");
 		show(alpha);
 		System.out.println("Массив bravo:");
